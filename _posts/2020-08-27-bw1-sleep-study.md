@@ -10,7 +10,7 @@ tags: [sleep, python]
 
 I've always been somewhat of a self-described sleep zealot. 
 
-During my 15-year career as a physical therapist I can safely say that over half of all of my clients had some variety of sleep disturbance as a major factor affecting their primary complaint.
+During my 15-year career as a physical therapist I can safely say that over half of all of my clients had some variety of sleep disturbance as a major factor driving their primary complaint.
 
 Now as I transition into the world of data science, it's only appropriate that for Build Week 1 at Lambda School I found a dataset from a study that may help people get better sleep.
 
