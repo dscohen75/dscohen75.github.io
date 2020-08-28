@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Aren't We Sleeping?
-subtitle: Analysis of an Survey-Based Sleep Study
+subtitle: Analysis of a Survey-Based Sleep Study
 cover-img: /assets/img/sleep_drawing_cropped.png
 thumbnail-img: /assets/img/fatigue_by_phone_loc.png
 share-img: /assets/img/fatigue_by_phone_loc.png
