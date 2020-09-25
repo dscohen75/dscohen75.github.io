@@ -16,4 +16,4 @@ The full analysis can be found in [the Medium article](https://medium.com/@debbi
 
 To your small business prosperity, if you so choose... 
 
-- Debbie Cohen, PT, MS, CSCS, COMT, WCS
+-- Debbie Cohen, PT, MS, CSCS, COMT, WCS, Data Science Student
