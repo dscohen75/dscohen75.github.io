@@ -12,7 +12,7 @@ The Paycheck Protection Program was initiated in April 2020. Administered by the
 
 In the rush to push out the money to businesses that needed it, a lot of concern arose around whether these loans were applied for legitimately and handed out fairly. Clearly they were not in every case. Since my physical therapy practice was a recipient of a small PPP loan, when I found that the SBA and the U.S. Treasury released their data from the PPP loans that had been granted, I felt it was my duty to dig in and see whether any unsavory patterns emerged.
 
-The full analysis can be found in [the Medium article](https://medium.com/@debbiecohen_22419/state-of-the-paycheck-protection-program-loans-a-checkup-10289751ee25).
+The full analysis can be found in [the Medium article](https://medium.com/@debbiecohen_22419/state-of-the-paycheck-protection-program-loans-a-checkup-10289751ee25), and the [code here](https://github.com/dscohen75/BW2).
 
 To your small business prosperity, if you so choose... 
 
